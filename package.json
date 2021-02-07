@@ -1,0 +1,8 @@
+{
+  "name": "com.tuohuang.AnyThinkAds",
+  "displayName": "AnyThinkAds",
+  "description": "Topon SDK",
+  "unity": "2019.2",
+  "dependencies": {},
+  "version": "0.0.0"
+}
