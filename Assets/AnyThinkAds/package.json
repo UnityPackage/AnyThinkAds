@@ -1,6 +1,5 @@
 {
   "name": "com.tuohuang.topon",
-  "version": "1.0.0",
   "description": "Topon SDK for Unity",
   "keywords": [
     "upm",
@@ -9,5 +8,6 @@
   ],
   "displayName": "Topon",
   "unity": "2018.3",
-  "dependencies": {}
+  "dependencies": {},
+  "version": "5.7.11"
 }
