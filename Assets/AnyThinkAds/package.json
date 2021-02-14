@@ -1,8 +1,13 @@
 {
-  "name": "com.tuohuang.AnyThinkAds",
-  "displayName": "AnyThinkAds",
-  "description": "Topon SDK",
-  "unity": "2019.2",
-  "dependencies": {},
-  "version": "5.7.11"
+  "name": "com.tuohuang.topon",
+  "version": "1.0.0",
+  "description": "Topon SDK for Unity",
+  "keywords": [
+    "upm",
+    "git",
+    "editor"
+  ],
+  "displayName": "Topon",
+  "unity": "2018.3",
+  "dependencies": {}
 }
