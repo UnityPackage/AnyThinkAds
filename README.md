@@ -53,7 +53,7 @@ Find the manifest.json file in the Packages folder of your project and edit it t
 ```
 {
   "dependencies": {
-    "com.tuohuang.AnyThinkAds": "https://github.com/UnityPackage/AnyThinkAds.git",
+    "com.tuohuang.topon": "https://github.com/UnityPackage/AnyThinkAds.git",
     ...
   },
 }
